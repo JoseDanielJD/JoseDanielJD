@@ -1,0 +1,188 @@
+{
+  "main": {
+    "name":"José Carmona",
+    "occupation":"FULL-STACK DEVELOPER",
+    "description":"I'm creating awesome and effective visual identities for companies of all sizes around the globe. I have about 3 years of experience in IT this industry.    I have expertise in the following latest technologies. HTML, CSS, Javascript, Es6, React, Redux, ReactNative, MaterialUI, Bootstrap, Nodejs, Express, Progressive Web Apps, unity3D, C, C++, Java. You'll get all the expected stuff like a great professional service with Extremely fast delivery, Full source code, 24/7 Availability and Quality. Feel free to contact me",
+    "image":"foto.jpg",
+    "bio":"Bachelor of Computer Science, with solid experience in software development, applying good practices so that a project can be carried out effectively and efficiently. Responsible, organized and self-taught, as well as easy adaptation to changes and excellent teamworkIn order to maintain a control of the code and the elaborated projects, one always works under a control of versions. Being able to be GIT or SVN. And for greater support each of the projects are hosted on a server in the cloud (internet). Among the storage options are: github, bitbucket, gitlab, riouxsvn, among others.It should be noted that the type of technology used is flexible, depending on the requirements of the project.Documentation of the developed project is also provided, as long as it is specified that its elaboration is desired.On the other hand, it is always in constant updating with the most effective and efficient tendencies of systems development, in addition to the self-taught learning of emerging technologies or efficient technologies of great recognition. For example, if a customer wants to use certain types of technological tools that are not currently within the mentioned repertoire, the proviso is made to adapt to it.I have special attention in scientific research developments, video games and artificial intelligence.The decision has been taken to enter into projects through this medium because there are no geographical barriers in the development of projects. In addition, this contributes to professional enrichment, taking into account the multi-cultural aspects that each client represents.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "jd24cmwe@gmail.com",
+    "phone": "",
+    "address":{
+      "street":"",
+      "city":"",
+      "state":"",
+      "zip": ""
+    },
+    "website": "...",
+    "resumedownload":"...",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University",
+        "degree":"BSc Compupter Science",
+        "graduated":"July 2017",
+        "description":"This university not only helped me find the tools that inspired me to use the art of programming to express myself, it gave me more than that, it helped me to find myself ..."
+      }
+    ],
+    "work":[
+      {
+        "company":"2Minds",
+        "title":"Full-stack Developer",
+        "years":"feb. de 2018 - Present",
+        "description":"Full Stack Developer working in several projects"
+      },
+      {
+        "company":"Freelancer",
+        "title":"Full-stack Developer",
+        "years":"March 2007 - February 2010",
+        "description":"Full Stack Developer (JavaScript) and expert in working with react/redux building unique UI and UX design. I will develop React Components OR pages according to your Requirements. I can also create your application from scratch and fixed the bugs."
+      },
+      {
+        "company":"Tantalo",
+        "title":"Full-stack Developer",
+        "years":"March 2007 - February 2010",
+        "description":"I was programmer analyst mostly using java,Jquery, Css, javascript, Html, Mysql"
+      },
+      {
+        "company":"Sourceteck, CA",
+        "title":"Full-stack Developer",
+        "years":"March 2007 - February 2010",
+        "description":"Main developer"
+      },
+      {
+        "company":"Imagen Proactiva",
+        "title":"Junior Full-stack Developer",
+        "years":"March 2007 - February 2010",
+        "description":"I was junior Full stack developer, mostly using Meteor and react technologies"
+      },
+      {
+        "company":"Febeca",
+        "title":"Junior Backend",
+        "years":"March 2007 - February 2010",
+        "description":"Developer Analyst using the ERP / CRM Compiere."
+      },
+      {
+        "company":"BTP",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Analysis, design and implementation of new systems. Programming and development in Java of new modules for Adempiere. Oracle Database Administration."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Meteor",
+        "level":"90%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"98%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"99%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"99%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"90%"
+      },
+      {
+        "name":"nodeJs",
+        "level":"90%"
+      },
+      {
+        "name":"Git",
+        "level":"85%"
+      },
+      {
+        "name":"C++",
+        "level":"82%"
+      },
+      {
+        "name":"MySQL",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Kangoeroe",
+        "category":"A belgium store CMS",
+        "image":"kangoeroe_page.png",
+        "url":"http://www.kangoeroe.be/"
+      },
+      {
+        "title":"Home Stay ",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"homestay_page.png",
+        "url":"https://www.choicehomestay.com/"
+      },
+      {
+        "title":"targetrecruitment",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"target_page.png",
+        "url":"https://targetrecruitment.eu/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
